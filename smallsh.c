@@ -3,7 +3,6 @@
  *
  *  Created on: Feb 16, 2016
  *  Author: Susan Kuretski
- *  CS344-400, Winter 2016
  *
  *  Implementation of a simple C-shell like program.
  *  cd, status, and exit are program handled; all other
